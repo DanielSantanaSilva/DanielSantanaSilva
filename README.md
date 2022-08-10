@@ -1,4 +1,4 @@
-## Oi meu nome Daniel! 🤓💻
+## Oi meu nome Daniel 🤓💻
 
 - 🔭 Atualmente trabalhando na Lina Open X
 - 🌱 Estudando Javascript
