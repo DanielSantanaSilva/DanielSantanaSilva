@@ -31,6 +31,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <a href = "mailto:daniel.santana.silva@uni9.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-santana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/DanielSantanaSilva);
+![Snake animation](https://github.com/DanielSantanaSilva/output/github-contribution-grid-snake.svg)
 
  </div>
