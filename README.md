@@ -1,6 +1,5 @@
 ## Oi meu nome Daniel 👽💻
 
-- 🔭 Trabalhando atualmente na Lina Open X
 - 🌱 Estudando TypeScript-React
 - 💬 Me pergunte ... qualquer coisa
 - ⚡ Mais sobre mim: ...
