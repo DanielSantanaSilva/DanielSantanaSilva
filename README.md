@@ -1,9 +1,10 @@
-## Oi meu nome Daniel 👽💻
 
-- 🌱 Estudando TypeScript e React
-- 💬 Me pergunte ... qualquer coisa
-- ⚡ Mais sobre mim: ...
-  --> Eu gosto de video games 🎮, jiu-jitsu 🥋 e café ☕
+ ## Hi my name is Daniel 👽💻
+  
+- 🌱 I’m currently learning TypeScript and React
+- 💬 Ask me ... about anything
+- ⚡ More about me:
+ I like jiu-jistu 🥋, video games🎮 and coffe ☕
 
 ##
 
