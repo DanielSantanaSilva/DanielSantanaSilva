@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning TypeScript and React
 - 💬 Ask me ... about anything
 - ⚡ More about me:
- I like jiu-jistu 🥋, video games🎮 and coffe ☕
+ I like jiu-jistu 🥋, video games 🎮 and coffe ☕
 
 ##
 
