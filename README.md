@@ -1,6 +1,6 @@
 ## Oi meu nome Daniel 👽💻
 
-- 🌱 Estudando TypeScript-React
+- 🌱 Estudando TypeScript e React
 - 💬 Me pergunte ... qualquer coisa
 - ⚡ Mais sobre mim: ...
   --> Eu gosto de video games 🎮, jiu-jitsu 🥋 e café ☕
