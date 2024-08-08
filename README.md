@@ -1,6 +1,6 @@
 ## Hi my name is Daniel 👽💻
 
-- 🌱 I’m currently learning TypeScript and React
+- 🌱 I’m currently learning Cypress
 - 💬 Ask me ... about anything
 - ⚡ More about me:
   I like jiu-jistu 🥋, video games 🎮 and coffe ☕
