@@ -1,5 +1,7 @@
 ## Hi my name is Daniel 👽💻
 
+WELCOME!!!
+
 - 🌱 I’m currently learning integration with Google's Gemini AI
 - 💬 Ask me ... about anything
 - ⚡ More about me:
