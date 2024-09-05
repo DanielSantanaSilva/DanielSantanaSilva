@@ -1,6 +1,6 @@
 ## Hi my name is Daniel 👽💻
 
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning integration with Google's Gemini AI
 - 💬 Ask me ... about anything
 - ⚡ More about me:
   I like jiu-jistu 🥋, video games 🎮 and coffe ☕
