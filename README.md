@@ -1,4 +1,4 @@
-## Hi my name is Daniel 👽💻  WELCOME!
+## Hi my name is Daniel 👽💻  Welcome
 
 - 🌱 I’m currently learning integration with Google's Gemini AI
 - 💬 Ask me ... about anything
