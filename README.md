@@ -1,9 +1,9 @@
-## Hi my name is Daniel 👽💻  Welcome
+## Hi my name is Daniel 👽💻 Welcome
 
 - 🌱 I’m currently learning integration with Google's Gemini AI
 - 💬 Ask me ... about anything
 - ⚡ More about me:
-  I like jiu-jistu 🥋, video games 🎮 and coffe ☕
+  I am Leonardo's father 👶, like jiu-jistu 🥋, video games 🎮 and coffe ☕
 
 ##
 
@@ -33,7 +33,6 @@
   <img align="center" alt="Dan-GitLab" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
 </div>
 
-
 ##
 
 <h3 align="left">Connect with me:</h3>
@@ -46,13 +45,10 @@
 </div>
   
 ##
-  
+
 
 <a href="https://gitlab.com/DanielSantanaSilva" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" target="_blank"></a>
-  
-   
-##  
+
+##
 
 ![Snake animation](https://github.com/DanielSantanaSilva/DanielSantanaSilva/blob/output/github-contribution-grid-snake.svg)
-
-
