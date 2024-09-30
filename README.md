@@ -18,7 +18,7 @@
 
 ##
 
-<h3 align="left">Programming languages, Frameworks, Libs and Tools:</h3>
+<h3 align="left">My Stack:</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Js" height="30" width="40"
