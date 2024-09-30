@@ -1,5 +1,12 @@
 ![DanielSantanaSilva-converter](https://github.com/user-attachments/assets/4837b838-2c18-4e61-82be-5684c871031d)
 
+<div style="display: inline_block"><br>
+  <a href="https://instagram.com/idaniels10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Daniel S#2604" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:daniel.santana.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-santana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 ##
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -38,17 +45,6 @@
   <img align="center" alt="Dan-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Dan-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Dan-GitLab" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">
-</div>
-
-##
-
-<h3 align="left">Connect with me:</h3>
-
-<div style="display: inline_block"><br>
-  <a href="https://instagram.com/idaniels10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Daniel S#2604" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:daniel.santana.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-santana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 ##
