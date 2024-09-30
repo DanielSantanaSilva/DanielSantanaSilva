@@ -9,7 +9,7 @@
     <p>💬 Ask me ... about anything</p>
   </div>
   <div>
-    <img src="./octocat.png" alt="Octocat" width="100" style="vertical-align:middle;">
+    <img src="./octocat.png" alt="Octocat" width="150" style="vertical-align:middle;">
   </div>
 </div>
 
