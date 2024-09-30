@@ -1,12 +1,12 @@
 ![DanielSantanaSilva-converter](https://github.com/user-attachments/assets/4837b838-2c18-4e61-82be-5684c871031d)
 
-
 ##
 
-- 🌱 I’m currently learning integration with Google's Gemini AI
-- 💬 Ask me ... about anything
-- ⚡ More about me:
+- ⚡ About me:
   I am Leonardo's father 👶, like jiu-jistu 🥋, video games 🎮 and coffe ☕
+
+- 🌱 I’m currently learning figma
+- 💬 Ask me ... about anything
 
 ##
 
@@ -57,4 +57,4 @@
 
 ##
 
-![Header](./github-header-image.png)
+![Footer](./github-footer-image.png)
