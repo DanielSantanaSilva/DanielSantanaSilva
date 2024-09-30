@@ -2,11 +2,16 @@
 
 ##
 
-- ⚡ About me:
-  I am Leonardo's father 👶, like jiu-jistu 🥋, video games 🎮 and coffe ☕
-
-- 🌱 I’m currently learning figma
-- 💬 Ask me ... about anything
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <p>⚡ About me: I am Leonardo's father 👶, like jiu-jitsu 🥋, video games 🎮, coffee ☕ and I love technology 💻</p>
+    <p>🌱 I’m currently learning Figma</p>
+    <p>💬 Ask me ... about anything</p>
+  </div>
+  <div>
+    <img src="./octocat.png" alt="Octocat" width="100" style="vertical-align:middle;">
+  </div>
+</div>
 
 ##
 
