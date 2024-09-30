@@ -1,5 +1,3 @@
-
-
 ![DanielSantanaSilva-converter](https://github.com/user-attachments/assets/4837b838-2c18-4e61-82be-5684c871031d)
 
 
@@ -56,3 +54,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake.svg">
 </picture>
+
+##
+
+![Header](./github-header-image.png)
