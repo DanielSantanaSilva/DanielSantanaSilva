@@ -16,7 +16,7 @@
     <p>💬 Ask me ... about anything</p>
   </div>
   <div>
-    <img src="./octocat.png" alt="Octocat" width="150" style="vertical-align:middle;">
+    <img width="100px"  src="/cat.svg"/>
   </div>
 </div>
 
