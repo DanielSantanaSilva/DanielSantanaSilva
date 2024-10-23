@@ -5,3 +5,18 @@
     --base-orange: #C95E30;
     --base-blue: #15174A;
 }
+
+:root {
+    --font-family-mono: 'Roboto Mono', monospace;
+    --font-size-small: 12px;
+    --font-size-medium: 16px;
+    --font-size-large: 20px;
+  }
+  
+  .text-mono {
+    font-family: var(--font-family-mono);
+  }
+  
+  .text-small {
+    font-size: var(--font-size-small);
+  }
