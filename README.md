@@ -12,7 +12,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     <p>⚡ About me: I like jiu-jitsu 🥋, video games 🎮, coffee ☕ and I love technology 💻</p>
-    <p>🚀 I’m currently learning how to speak English</p>
+    <p>🚀 I'm currently learning how to speak English</p>
     <p>💬 Ask me ... about anything</p>
   </div>
   <div>
@@ -24,10 +24,10 @@
 
 <div align="left">
   <a href="https://github.com/DanielSantanaSilva" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielSantanaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Daniel's GitHub stats" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielSantanaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Daniel's GitHub stats" />
   </a>
   <a href="https://github.com/DanielSantanaSilva" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantanaSilva&layout=compact&langs_count=7&theme=dark" alt="Daniel's top languages" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielSantanaSilva&layout=compact&langs_count=7&theme=dark" alt="Daniel's top languages" />
   </a>
 </div>
 
