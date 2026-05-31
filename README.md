@@ -1,10 +1,10 @@
 ![DanielSantanaSilva-converter](https://github.com/user-attachments/assets/4837b838-2c18-4e61-82be-5684c871031d)
 
-<div style="display: inline_block"><br>
-  <a href="https://instagram.com/idaniels10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Daniel S#2604" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:daniel.santana.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-santana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="display: inline-block;"><br>
+  <a href="https://instagram.com/idaniels10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
+  <a href="mailto:daniel.santana.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+  <a href="https://www.linkedin.com/in/daniel-santana-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 ##
@@ -12,20 +12,23 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     <p>⚡ About me: I like jiu-jitsu 🥋, video games 🎮, coffee ☕ and I love technology 💻</p>
-    <p>🚀 I’m currently learning speaking english</p>
+    <p>🚀 I’m currently learning how to speak English</p>
     <p>💬 Ask me ... about anything</p>
   </div>
   <div>
-    <img width="100px"  src="/cat.svg"/>
+    <img width="100" src="cat.svg" alt="Cat Mascot"/>
   </div>
 </div>
 
 ##
 
 <div align="left">
-  <a href="https://https://github.com/DanielSantanaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSantanaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantanaSilva&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/DanielSantanaSilva" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielSantanaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Daniel's GitHub stats" />
+  </a>
+  <a href="https://github.com/DanielSantanaSilva" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantanaSilva&layout=compact&langs_count=7&theme=dark" alt="Daniel's top languages" />
+  </a>
 </div>
 
 ##
@@ -57,8 +60,10 @@
   
 ##
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
