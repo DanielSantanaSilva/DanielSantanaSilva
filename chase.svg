@@ -3,19 +3,19 @@
     /* Transparent background */
     .scene { overflow: hidden; }
 
-    /* Cat runs from right to left */
+    /* Cat runs from left to right */
     .cat-group {
-      animation: runLeft 5s linear infinite;
+      animation: runRight 5s linear infinite;
     }
-    /* Dog runs from right to left, slightly behind */
+    /* Dog runs from left to right, slightly behind the cat */
     .dog-group {
-      animation: runLeft 5s linear infinite;
-      animation-delay: -1.2s;
+      animation: runRight 5s linear infinite;
+      animation-delay: 1.2s;
     }
 
-    @keyframes runLeft {
-      0%   { transform: translateX(620px); }
-      100% { transform: translateX(-160px); }
+    @keyframes runRight {
+      0%   { transform: translateX(-160px); }
+      100% { transform: translateX(620px); }
     }
 
     /* Leg oscillation for running effect */
