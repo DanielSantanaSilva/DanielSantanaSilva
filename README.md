@@ -26,7 +26,7 @@
     <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielSantanaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Daniel's GitHub stats" />
   </a>
   <a href="https://github.com/DanielSantanaSilva" target="_blank">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielSantanaSilva&layout=compact&langs_count=7&theme=dark" alt="Daniel's top languages" />
+    <img width="400" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielSantanaSilva&layout=compact&langs_count=7&theme=dark" alt="Daniel's top languages" />
   </a>
 </div>
 
