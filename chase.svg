@@ -116,9 +116,7 @@
           <line x1="34" y1="90" x2="38" y2="102" stroke="#E8940F" stroke-width="4" stroke-linecap="round"/>
         </g>
 
-        <!-- Dust puffs (cat) -->
-        <circle class="dust" cx="10" cy="98" r="5" fill="#aaa" opacity="0.5"/>
-        <circle class="dust dust2" cx="20" cy="100" r="4" fill="#aaa" opacity="0.4"/>
+
       </g>
     </g>
 
@@ -165,9 +163,7 @@
           <line x1="32" y1="92" x2="37" y2="106" stroke="#B8935A" stroke-width="5" stroke-linecap="round"/>
         </g>
 
-        <!-- Dust puffs (dog) -->
-        <circle class="dust" cx="8" cy="100" r="6" fill="#aaa" opacity="0.5"/>
-        <circle class="dust dust2" cx="20" cy="102" r="5" fill="#aaa" opacity="0.4"/>
+
       </g>
     </g>
 
