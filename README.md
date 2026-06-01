@@ -8,16 +8,13 @@
 
 ##
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <p>⚡ About me: I like jiu-jitsu 🥋, video games 🎮, coffee ☕ and I love technology 💻</p>
-    <p>🚀 I'm currently learning how to speak English</p>
-    <p>💬 Ask me ... about anything</p>
-  </div>
-  <div>
-    <img width="100" src="cat.svg" alt="Cat Mascot"/>
-  </div>
+<div>
+  <p>⚡ About me: I like jiu-jitsu 🥋, video games 🎮, coffee ☕ and I love technology 💻</p>
+  <p>🚀 I'm currently learning how to speak English</p>
+  <p>💬 Ask me ... about anything</p>
 </div>
+
+<img src="chase.svg" alt="Dog chasing cat animation" width="600"/>
 
 ##
 

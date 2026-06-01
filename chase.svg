@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
+  <style>
+    /* Transparent background */
+    .scene { overflow: hidden; }
+
+    /* Cat runs from right to left */
+    .cat-group {
+      animation: runLeft 5s linear infinite;
+    }
+    /* Dog runs from right to left, slightly behind */
+    .dog-group {
+      animation: runLeft 5s linear infinite;
+      animation-delay: -1.2s;
+    }
+
+    @keyframes runLeft {
+      0%   { transform: translateX(620px); }
+      100% { transform: translateX(-160px); }
+    }
+
+    /* Leg oscillation for running effect */
+    .cat-leg-front { animation: legSwingCat 0.25s ease-in-out infinite alternate; transform-origin: 50% 0; }
+    .cat-leg-back  { animation: legSwingCat 0.25s ease-in-out infinite alternate-reverse; transform-origin: 50% 0; }
+    .dog-leg-front { animation: legSwingDog 0.22s ease-in-out infinite alternate; transform-origin: 50% 0; }
+    .dog-leg-back  { animation: legSwingDog 0.22s ease-in-out infinite alternate-reverse; transform-origin: 50% 0; }
+
+    @keyframes legSwingCat {
+      from { transform: rotate(-28deg); }
+      to   { transform: rotate(28deg); }
+    }
+    @keyframes legSwingDog {
+      from { transform: rotate(-32deg); }
+      to   { transform: rotate(32deg); }
+    }
+
+    /* Tail wag */
+    .cat-tail { animation: tailWagCat 0.3s ease-in-out infinite alternate; transform-origin: 0% 100%; }
+    .dog-tail { animation: tailWagDog 0.28s ease-in-out infinite alternate; transform-origin: 0% 0%; }
+
+    @keyframes tailWagCat {
+      from { transform: rotate(-20deg); }
+      to   { transform: rotate(20deg); }
+    }
+    @keyframes tailWagDog {
+      from { transform: rotate(-25deg); }
+      to   { transform: rotate(25deg); }
+    }
+
+    /* Body bounce while running */
+    .cat-body { animation: bounce 0.25s ease-in-out infinite alternate; }
+    .dog-body { animation: bounce 0.22s ease-in-out infinite alternate; }
+
+    @keyframes bounce {
+      from { transform: translateY(0px); }
+      to   { transform: translateY(-3px); }
+    }
+
+    /* Dust puff */
+    .dust {
+      animation: dustFade 0.5s ease-out infinite;
+    }
+    @keyframes dustFade {
+      0%   { opacity: 0.7; transform: scale(0.5) translateX(0); }
+      100% { opacity: 0;   transform: scale(1.4) translateX(-10px); }
+    }
+    .dust2 { animation-delay: 0.25s; }
+  </style>
+
+  <g class="scene">
+
+    <!-- Ground line -->
+    <line x1="0" y1="100" x2="600" y2="100" stroke="#555" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+    <!-- ═══════ CAT ═══════ -->
+    <g class="cat-group">
+      <g class="cat-body">
+        <!-- Body -->
+        <ellipse cx="40" cy="80" rx="22" ry="13" fill="#F5A623"/>
+        <!-- Head -->
+        <circle cx="62" cy="68" r="13" fill="#F5A623"/>
+        <!-- Ears -->
+        <polygon points="55,57 51,47 62,55" fill="#F5A623"/>
+        <polygon points="57,56 53,48 62,55" fill="#F9C784"/>
+        <polygon points="68,57 72,47 62,55" fill="#F5A623"/>
+        <polygon points="66,56 70,48 62,55" fill="#F9C784"/>
+        <!-- Eye -->
+        <circle cx="64" cy="66" r="3" fill="#222"/>
+        <circle cx="65" cy="65" r="1" fill="white"/>
+        <!-- Nose -->
+        <ellipse cx="68" cy="71" rx="2" ry="1.5" fill="#E57373"/>
+        <!-- Whiskers -->
+        <line x1="70" y1="70" x2="82" y2="68" stroke="#555" stroke-width="0.8"/>
+        <line x1="70" y1="72" x2="82" y2="73" stroke="#555" stroke-width="0.8"/>
+        <line x1="70" y1="71" x2="80" y2="75" stroke="#555" stroke-width="0.8"/>
+        <!-- Mouth -->
+        <path d="M68,73 Q70,76 73,73" fill="none" stroke="#c0392b" stroke-width="1"/>
+
+        <!-- Tail -->
+        <g class="cat-tail" style="transform-origin:18px 82px">
+          <path d="M18,82 Q5,70 10,58" fill="none" stroke="#F5A623" stroke-width="5" stroke-linecap="round"/>
+          <circle cx="10" cy="57" r="4" fill="#F9C784"/>
+        </g>
+
+        <!-- Front legs -->
+        <g class="cat-leg-front" style="transform-origin:52px 90px">
+          <line x1="52" y1="90" x2="48" y2="102" stroke="#E8940F" stroke-width="4" stroke-linecap="round"/>
+        </g>
+        <g style="transform-origin:56px 90px; animation:legSwingCat 0.25s ease-in-out infinite alternate-reverse; animation-delay:0.05s">
+          <line x1="56" y1="90" x2="60" y2="102" stroke="#E8940F" stroke-width="4" stroke-linecap="round"/>
+        </g>
+        <!-- Back legs -->
+        <g class="cat-leg-back" style="transform-origin:28px 90px">
+          <line x1="28" y1="90" x2="22" y2="102" stroke="#E8940F" stroke-width="4" stroke-linecap="round"/>
+        </g>
+        <g style="transform-origin:34px 90px; animation:legSwingCat 0.25s ease-in-out infinite alternate; animation-delay:0.05s">
+          <line x1="34" y1="90" x2="38" y2="102" stroke="#E8940F" stroke-width="4" stroke-linecap="round"/>
+        </g>
+
+        <!-- Dust puffs (cat) -->
+        <circle class="dust" cx="10" cy="98" r="5" fill="#aaa" opacity="0.5"/>
+        <circle class="dust dust2" cx="20" cy="100" r="4" fill="#aaa" opacity="0.4"/>
+      </g>
+    </g>
+
+    <!-- ═══════ DOG ═══════ -->
+    <g class="dog-group">
+      <g class="dog-body">
+        <!-- Body -->
+        <ellipse cx="38" cy="82" rx="25" ry="14" fill="#C8A26A"/>
+        <!-- Neck -->
+        <rect x="56" y="68" width="12" height="14" rx="4" fill="#C8A26A"/>
+        <!-- Head -->
+        <ellipse cx="72" cy="66" rx="14" ry="12" fill="#C8A26A"/>
+        <!-- Snout -->
+        <ellipse cx="82" cy="70" rx="9" ry="7" fill="#B8935A"/>
+        <!-- Nose -->
+        <ellipse cx="87" cy="68" rx="3.5" ry="2.5" fill="#333"/>
+        <circle cx="86" cy="67" r="1" fill="white"/>
+        <!-- Eye -->
+        <circle cx="75" cy="62" r="3.5" fill="#222"/>
+        <circle cx="76" cy="61" r="1.2" fill="white"/>
+        <!-- Mouth / tongue -->
+        <path d="M83,73 Q86,78 89,73" fill="none" stroke="#c0392b" stroke-width="1.2"/>
+        <ellipse cx="86" cy="77" rx="3" ry="4" fill="#E74C3C"/>
+        <!-- Ear (floppy) -->
+        <path d="M65,58 Q58,54 57,68" fill="none" stroke="#A07840" stroke-width="8" stroke-linecap="round"/>
+
+        <!-- Tail -->
+        <g class="dog-tail" style="transform-origin:14px 78px">
+          <path d="M14,78 Q-4,65 -2,52" fill="none" stroke="#C8A26A" stroke-width="6" stroke-linecap="round"/>
+        </g>
+
+        <!-- Front legs -->
+        <g class="dog-leg-front" style="transform-origin:60px 92px">
+          <line x1="60" y1="92" x2="55" y2="106" stroke="#B8935A" stroke-width="5" stroke-linecap="round"/>
+        </g>
+        <g style="transform-origin:66px 92px; animation:legSwingDog 0.22s ease-in-out infinite alternate-reverse; animation-delay:0.05s">
+          <line x1="66" y1="92" x2="71" y2="106" stroke="#B8935A" stroke-width="5" stroke-linecap="round"/>
+        </g>
+        <!-- Back legs -->
+        <g class="dog-leg-back" style="transform-origin:24px 92px">
+          <line x1="24" y1="92" x2="18" y2="106" stroke="#B8935A" stroke-width="5" stroke-linecap="round"/>
+        </g>
+        <g style="transform-origin:32px 92px; animation:legSwingDog 0.22s ease-in-out infinite alternate; animation-delay:0.05s">
+          <line x1="32" y1="92" x2="37" y2="106" stroke="#B8935A" stroke-width="5" stroke-linecap="round"/>
+        </g>
+
+        <!-- Dust puffs (dog) -->
+        <circle class="dust" cx="8" cy="100" r="6" fill="#aaa" opacity="0.5"/>
+        <circle class="dust dust2" cx="20" cy="102" r="5" fill="#aaa" opacity="0.4"/>
+      </g>
+    </g>
+
+  </g>
+</svg>
