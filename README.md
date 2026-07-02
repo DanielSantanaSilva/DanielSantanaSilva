@@ -9,9 +9,26 @@
 ##
 
 <div>
-  <p>⚡ About me: I like jiu-jitsu 🥋, video games 🎮, coffee ☕ and I love technology 💻</p>
-  <p>🚀 I'm currently learning how to speak English</p>
-  <p>💬 Ask me ... about anything</p>
+  # 👋 Olá, eu sou o Daniel!
+
+## ✨ Sobre mim
+- 🥋 Apaixonado por **jiu-jitsu**, disciplina e evolução constante  
+- 🎮 Entusiasta de **video games**, sempre explorando novas experiências interativas  
+- ☕ Amante de **café**, combustível para criatividade e foco  
+- 💻 Fascinado por **tecnologia**, sempre em busca de inovação e aprendizado  
+
+## 🚀 Atualmente
+- Estudando e aprimorando meu **inglês** para expandir conexões globais  
+- Desenvolvendo habilidades em **programação** e projetos tecnológicos  
+
+## 💡 O que você encontra aqui
+- Projetos que refletem minha curiosidade e dedicação  
+- Experimentos com novas ferramentas e linguagens  
+- Uma jornada de aprendizado contínuo  
+
+---
+⭐ *Transformando curiosidade em código e ideias em projetos.*
+
 </div>
 
 <img src="chase.svg" alt="Dog chasing cat animation" width="600"/>
