@@ -9,25 +9,28 @@
 ##
 
 <div>
-  # 👋 Olá, eu sou o Daniel!
+# 👋 Olá, eu sou o Daniel!
 
-## ✨ Sobre mim
-- 🥋 Apaixonado por **jiu-jitsu**, disciplina e evolução constante  
-- 🎮 Entusiasta de **video games**, sempre explorando novas experiências interativas  
-- ☕ Amante de **café**, combustível para criatividade e foco  
-- 💻 Fascinado por **tecnologia**, sempre em busca de inovação e aprendizado  
+Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de soluções que conectam ideias à prática. Atualmente venho desenvolvendo minhas habilidades em programação, explorando novas ferramentas e fortalecendo minha base para atuar em projetos cada vez mais completos.
 
-## 🚀 Atualmente
-- Estudando e aprimorando meu **inglês** para expandir conexões globais  
-- Desenvolvendo habilidades em **programação** e projetos tecnológicos  
+## 🚀 Sobre mim
+
+- 💻 Em evolução constante na área de tecnologia e desenvolvimento
+- 📚 Estudando programação, boas práticas e novas ferramentas
+- 🌎 Aprimorando meu inglês para ampliar oportunidades e conexões
+- 🥋 Praticante de jiu-jitsu, levando disciplina e constância também para os estudos
+- 🎮 Entusiasta de games e experiências interativas
+- ☕ Café como parceiro de foco, criatividade e produtividade
 
 ## 💡 O que você encontra aqui
-- Projetos que refletem minha curiosidade e dedicação  
-- Experimentos com novas ferramentas e linguagens  
-- Uma jornada de aprendizado contínuo  
+
+- Projetos de estudo e prática em desenvolvimento
+- Experimentos com tecnologias, linguagens e ferramentas
+- Uma jornada real de aprendizado, evolução e construção de portfólio
 
 ---
-⭐ *Transformando curiosidade em código e ideias em projetos.*
+
+⭐ Transformando curiosidade em código e ideias em projetos.
 
 </div>
 
