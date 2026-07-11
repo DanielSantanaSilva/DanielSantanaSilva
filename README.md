@@ -1,4 +1,4 @@
-![DanielSantanaSilva-converter](https://github.com/user-attachments/assets/4837b838-2c18-4e61-82be-5684c871031d)
+![DanielSantanaSilva-converter](./banner.svg)
 
 <div style="display: inline-block;"><br>
   <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
