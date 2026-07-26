@@ -20,6 +20,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de soluç�
 - 📚 Estudando programação, boas práticas e novas ferramentas
 - 🌎 Aprimorando meu inglês para ampliar oportunidades e conexões
 - 🥋 Praticante de jiu-jitsu, levando disciplina e constância também para os estudos
+- 📈 Especialista em tráfego pago
 - 🎮 Entusiasta de games e experiências interativas
 - ☕ Café como parceiro de foco, criatividade e produtividade
 
