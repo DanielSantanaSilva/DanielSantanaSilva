@@ -36,8 +36,6 @@ Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de soluç�
 
 </div>
 
-<img src="chase.svg" alt="Dog chasing cat animation" width="600"/>
-
 ##
 
 <div align="left">
