@@ -38,17 +38,6 @@ Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de soluç�
 
 ##
 
-<div align="left">
-  <a href="https://github.com/DanielSantanaSilva" target="_blank">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielSantanaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/DanielSantanaSilva" target="_blank">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantanaSilva&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
-  </a>
-</div>
-
-##
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielSantanaSilva/DanielSantanaSilva/output/github-contribution-grid-snake-dark.svg">
